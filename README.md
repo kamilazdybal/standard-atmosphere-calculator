@@ -6,7 +6,7 @@ This repository contains a bunch of Python tools to aid your everyday scientific
 
 Computes temperature, pressure and density at a desired altitude for the International Standard Atmosphere (ISA).
 
-Click here for the interactive web version of the [**`Standard Atmosphere Calculator`**](https://camillejr.github.io/Tools/standard-atmosphere-calculator.html) in Python!
+Click here for the interactive web version of the [**`Standard Atmosphere Calculator`**](https://kamilazdybal.github.io/Tools/standard-atmosphere-calculator.html) in Python!
 
 > **Credits**
 >
