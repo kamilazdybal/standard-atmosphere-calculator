@@ -4,7 +4,7 @@ Calculator of temperature, pressure and density at a user-specified altitude for
 
 The interactive web version of the [**`Standard Atmosphere Calculator`**](https://kamilazdybal.github.io/standard-atmosphere-calculator/standard-atmosphere-calculator.html) in Python!
 
-**Credits**
+**Credits:**
 
 > The idea for creating this calculator was born while watching the course *Introduction to Aeronautical Engineering* by TU Delft. In the course, the equations for pressure, density and temperature for the International Standard Atmosphere were derived. In order to help me solve course problems faster I created this Standard Atmosphere Calculator.
 
